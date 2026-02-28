@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "FINAL DISTANCE",
+  "base_artist": "宇多田ヒカル",
+  "createdAt": "2026-02-28T12:54:47.594848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "FINAL DISTANCE",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_FINAL_DISTANCE_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Final Distance",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/02_Final_Distance_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Final Distance",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/03_Final_Distance_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Final Distance",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/04_Final_Distance_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Final Distance (Instrumental)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_Final_Distance_(Instrumental)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "FINAL DISTANCE",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/06_FINAL_DISTANCE_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Final Distance",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/07_Final_Distance_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "FINAL DISTANCE",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/08_FINAL_DISTANCE_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Final Distance",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/09_Final_Distance_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "FINAL DISTANCE",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/10_FINAL_DISTANCE_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "FINAL DISTANCE",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/11_FINAL_DISTANCE_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "FINAL DISTANCE",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/12_FINAL_DISTANCE_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Final Distance",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/13_Final_Distance_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "FINAL DISTANCE",
+      "artist": "宇多田ヒカル",
+      "has_synced": false,
+      "path": "select/14_FINAL_DISTANCE_宇多田ヒカル.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Final Distance",
+      "artist": "宇多田光",
+      "has_synced": true,
+      "path": "select/15_Final_Distance_宇多田光.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "FINAL DISTANCE",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_FINAL_DISTANCE_宇多田_ヒカル.txt"
+    }
+  ]
+}
